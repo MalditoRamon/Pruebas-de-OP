@@ -1,0 +1,50 @@
+#Listadelacompra {
+    color: rgb(82, 4, 4);
+    font-size: 50pt;
+    text-decoration: underline;
+    margin: 100px;
+}
+
+
+#encabezado {
+    color: rgb(47, 6, 88);
+    font-size: 35pt;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 100px;
+}
+
+.elemento-1 {
+    color: rgba(194, 182, 24, 0.986);
+    font-size: 2rem;
+    background-color: rgb(109, 3, 3);
+    padding: 10px 5px;
+}
+
+.elemento-2 {
+    color: rgb(151, 10, 10);
+    font-size: 27pt;
+}
+
+.elemento-3 {
+    color: rgb(7, 70, 7);
+    font-size: 27pt;
+}
+
+.elemento-4 {
+    color: rgb(10, 10, 10);
+    font-size: 27pt;
+}
+
+.elemento-5 {
+    color: rgb(167, 167, 12);
+    font-size: 27pt;
+}
+
+.listaordenada {
+    margin: 25px;
+}
+
+.listadesordenada {
+    margin: 50px;
+}
