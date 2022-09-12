@@ -1,0 +1,10 @@
+.flex {
+    background-color: rgb(95, 7, 7);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.flex img {
+    width: 300px;
+}
