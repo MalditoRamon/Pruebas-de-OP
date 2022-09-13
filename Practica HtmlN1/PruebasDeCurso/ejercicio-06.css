@@ -1,0 +1,17 @@
+button span::before{
+    content:'Pasa por encima';
+}  
+
+button:hover{
+    background-color: green;
+}
+
+button span:hover::before {
+    content: 'Hecho';
+}
+
+button span:hover{
+    color: aliceblue;
+}
+
+
